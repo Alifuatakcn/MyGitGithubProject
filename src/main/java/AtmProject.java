@@ -8,5 +8,8 @@ public class AtmProject {
         //version3
         System.out.println("Git ögrenmek cok kolay");
         //version4
+
+        System.out.println("ali  branch");
+        //version ali1
     }
 }
