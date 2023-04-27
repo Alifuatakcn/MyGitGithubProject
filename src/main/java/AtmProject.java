@@ -11,5 +11,7 @@ public class AtmProject {
 
         System.out.println("ali  branch");
         //version ali1
+       //remote repoda degisiklik yaptım 
     }
+    
 }
